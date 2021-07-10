@@ -1,5 +1,6 @@
 .build
 build
+.xmake
 test/tmp
 coverage-report
 .cache
